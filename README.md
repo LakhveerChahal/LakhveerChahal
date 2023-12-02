@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LakhveerChahal
 - 👀 I’m interested in Full Stack Web development
-- 🌱 I’m currently learning Java based backend.
+- 🌱 I’m currently learning PostgreSQL & Java based backend applications. In addition to this, I work on Angular based frontend.
 - 📫 How to reach me linkedin.com/in/lakhveer_chahal_07
